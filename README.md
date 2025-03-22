@@ -31,8 +31,8 @@ Chaque joueur déplace ses pions (`O` ou `X`) pour capturer ceux de l'adversaire
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/votre-utilisateur/jeu-de-canaries.git
-cd jeu-de-canaries
+git clone https://github.com/votre-utilisateur/jeu-de-dames-ia.git
+cd jeu-de-dames-ia
 ```
 ## 🚀 Lancer le jeu
 
